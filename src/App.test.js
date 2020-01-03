@@ -4,7 +4,7 @@ import App from './App';
 
 test('renders title paragraph', () => {
   const { getByText } = render(<App />);
-  const titleElement = getByText(/was changed/i);
+  const titleElement = getByText(/Branch/i);
   expect(titleElement).toBeInTheDocument();
 });
 
