@@ -10,7 +10,7 @@ function App() {
                     className="App-logo"
                     alt="logo"/>
                 <p>
-                    I was changed.
+                    Added new Feature Branch!
                 </p>
             </header>
         </div>
